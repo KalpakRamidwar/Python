@@ -1,3 +1,5 @@
+// Analyse the tweet in three sentiments Possitive, Negative, Nuetral
+
 import tkinter as tk
 from tkinter import messagebox
 from textblob import TextBlob
